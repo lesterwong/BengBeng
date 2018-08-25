@@ -32,8 +32,9 @@ cd ling    /// go to the file call ling
 
 Step: 
 git add . 
-git push 
 git commit -a -m "xxx"
+git push 
+
 
  
 
