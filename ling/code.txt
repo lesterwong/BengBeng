@@ -1,0 +1,41 @@
+git clone git@github.com:lesterwong/BengBeng.git
+
+cd beng beng 
+
+mkdir ling                 // create folder 
+
+cd ling 
+
+git add . 	 	  //  . is mean add all folder *it also can replace by a specific file
+
+git status 
+
+vim ling 
+
+git add . 
+
+git commit -a -m "hello"
+
+git pull 
+
+git push 
+
+
+
+
+
+cd ..       /// back 
+cd ling    /// go to the file call ling 
+
+
+
+
+Step: 
+git add . 
+git push 
+git commit -a -m "xxx"
+
+ 
+
+
+
