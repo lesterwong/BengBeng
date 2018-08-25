@@ -6,11 +6,11 @@ mkdir ling                 // create folder
 
 cd ling 
 
-git add . 	 	  //  . is mean add all folder *it also can replace by a specific file
+git add . 	 	  //  . is mean add all folder  **it also can replace by a specific file
 
-git status 
+git status 		  // to check change made 
 
-vim ling 
+vim ling 		 // can ignore first 
 
 git add . 
 
