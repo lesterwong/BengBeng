@@ -1,0 +1,18 @@
+cd .. 		//go up
+
+cd 		//current directory 
+
+mkdir 
+
+git add
+
+git status 
+
+vim lester
+
+git add . 
+git commit -a -m "any msg"
+git pull 
+git push
+
+
